@@ -15,7 +15,7 @@ return [
     | Application Environment
     |--------------------------------------------------------------------------
     */
-
+////abcd
     'env' => env('APP_ENV', 'production'),
 
     /*
